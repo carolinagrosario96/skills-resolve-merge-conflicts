@@ -1,3 +1,2 @@
-# References
+another text that should conflit
 
-* octocat 1 😈
